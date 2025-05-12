@@ -1,0 +1,8 @@
+# Dependencies
+
+bin/
+obj/
+
+
+# Node modules
+node_modules
